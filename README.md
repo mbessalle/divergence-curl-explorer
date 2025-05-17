@@ -24,15 +24,15 @@ This project is an interactive web-based tool designed to help visualize 2D vect
 
 **Source Field Example:**
 *(Vectors radiating outwards from a central point)*
-![Source Field](source-field.png)
+![Source Field](source.png)
 
 **Rotational Field Example:**
 *(Vectors exhibiting a rotational pattern around the center)*
-![Rotational Field](rotation-field.png)
+![Rotational Field](rotation.png)
 
 **Sink Field Example:**
 *(Vectors converging inwards to a central point)*
-![Sink Field](sink-field.png)
+![Sink Field](sink.png)
 
 ## How to Use
 
