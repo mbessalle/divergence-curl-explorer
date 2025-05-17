@@ -13,12 +13,26 @@ This project is an interactive web-based tool designed to help visualize 2D vect
     *   Rotation field (demonstrating zero divergence)
 *   **Divergence Visualization:** Switch to "Show Divergence" mode to:
     *   See a color-coded overlay indicating the strength and sign of divergence at each point.
-        *   Red for positive divergence (source).
-        *   Blue for negative divergence (sink).
-        *   Green/Gray for near-zero divergence.
+        *   <span style="color: red; font-weight:bold;">Red</span> for positive divergence (source).
+        *   <span style="color: blue; font-weight:bold;">Blue</span> for negative divergence (sink).
+        *   <span style="color: green; font-weight:bold;">Green</span>/Gray for near-zero divergence.
     *   View the precise calculated divergence value in a tooltip on mouseover.
 *   **Clear Canvas:** Easily reset the vector field.
 *   **Responsive Design:** The interface adapts to different screen sizes.
+
+## Screenshots
+
+**Source Field Example:**
+*(Vectors radiating outwards from a central point)*
+![Source Field](source-field.png)
+
+**Rotational Field Example:**
+*(Vectors exhibiting a rotational pattern around the center)*
+![Rotational Field](rotation-field.png)
+
+**Sink Field Example:**
+*(Vectors converging inwards to a central point)*
+![Sink Field](sink-field.png)
 
 ## How to Use
 
