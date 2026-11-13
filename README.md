@@ -1,5 +1,7 @@
 # 2D Vector Field Divergence Explorer
 
+**[Try it live](https://mbessalle.github.io/divergence-curl-explorer/)** · a single HTML file, no build step, no dependencies
+
 This project is an interactive web-based tool designed to help visualize 2D vector fields and understand the concept of divergence. Users can draw their own vector fields or load pre-defined examples to see how divergence is calculated and represented.
 
 ## Features
@@ -36,7 +38,7 @@ This project is an interactive web-based tool designed to help visualize 2D vect
 
 ## How to Use
 
-1.  **Open `index.html` in a web browser.**
+1.  **Open the [live page](https://mbessalle.github.io/divergence-curl-explorer/)**, or open `index.html` in a web browser.
 2.  **Select a Mode:**
     *   **Paint Vectors:** Click and drag on any cell in the grid to define a vector. The vector starts at the center of the cell and its direction/magnitude are determined by your drag.
     *   **Show Divergence:** Move your mouse cursor over the grid. A colored circle and a tooltip will display the calculated divergence at the cursor's location.
